@@ -1,0 +1,60 @@
+{
+  "guests": [
+    {
+      "id": 1,
+      "name": "Kate Beckinsale",
+      "age": 48,
+      "favDish": "Pumpkin cheesecake",
+      "rHand": true,
+      "imgUrl": null
+    },
+    {
+      "id": 2,
+      "name": "Bert Kreischer",
+      "age": 49,
+      "favDish": "Mashed potatoes",
+      "rHand": true,
+      "imgUrl": null
+    },
+    {
+      "id": 3,
+      "name": "Thor, son of Odin",
+      "age": 3600,
+      "favDish": "Coffee",
+      "rHand": true,
+      "imgUrl": null
+    },
+    {
+      "id": 3,
+      "name": "Spike Spiegel",
+      "age": 27,
+      "favDish": "Beef",
+      "rHand": false,
+      "imgUrl": null
+    },
+    {
+      "id": 4,
+      "name": "Steve Rogers",
+      "age": 97,
+      "favDish": "Turkey and gravy",
+      "rHand": false,
+      "imgUrl": null
+    },
+    {
+      "id": 5,
+      "name": "Tom Savini",
+      "age": 75,
+      "favDish": "Cranberry sauce",
+      "rHand": false,
+      "imgUrl": null
+    },
+    {
+      "name": "Tilly",
+      "age": "12",
+      "favDish": "PIE!",
+      "rHand": "right",
+      "imgUrl": "null",
+      "id": 8
+    }
+  ]
+}
